@@ -19,7 +19,7 @@ Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool li
 
 #### Data Analysis
 
-Once you have a complete database, do the following:
+Once I had a complete database, I did the following:
 
 Once I got a complete database, I did the following:
 
@@ -41,7 +41,7 @@ Once I got a complete database, I did the following:
 
 #### Part II
 
-As I examined the data, you I overcame with a creeping suspicion that the dataset is fake. I surmised that my boss handed me spurious data in order to test the data engineering skills of a new employee. To confirm my hunch, I decide to take the following steps to generate a visualization of the data, with which I would confront my boss:
+As I examined the data, I overcame with a creeping suspicion that the dataset is fake. I surmised that my boss handed me spurious data in order to test the data engineering skills of a new employee. To confirm my hunch, I decide to take the following steps to generate a visualization of the data, with which I would confront my boss:
 
 1. Imported the SQL database into Pandas. Connected to PostgreSQL like this:
 
